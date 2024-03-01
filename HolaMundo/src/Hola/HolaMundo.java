@@ -22,6 +22,8 @@ public class HolaMundo {
      	
      	System.out.println("HOLA MUNDO 6 ..............");
      	System.out.println("HOLA MUNDO 7 ..............");
+     	System.out.println("HOLA MUNDO 8 ..............");
+     	System.out.println("HOLA MUNDO 9 ..............");
 	}
 
 }
